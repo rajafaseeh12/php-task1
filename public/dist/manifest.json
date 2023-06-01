@@ -1,0 +1,75 @@
+{
+  "public/img/logo-ct-dark.png": {
+    "file": "assets/logo-ct-dark.7a12dae2.png",
+    "src": "public/img/logo-ct-dark.png"
+  },
+  "public/img/team-2.jpg": {
+    "file": "assets/team-2.d149865c.jpg",
+    "src": "public/img/team-2.jpg"
+  },
+  "public/img/small-logos/logo-spotify.svg": {
+    "file": "assets/logo-spotify.37f3657f.svg",
+    "src": "public/img/small-logos/logo-spotify.svg"
+  },
+  "resources/js/main.ts": {
+    "file": "assets/app.9c96a64e.js",
+    "src": "resources/js/main.ts",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/views/pages/Auth/Signup.vue",
+      "resources/views/pages/Home.vue",
+      "resources/views/pages/Profile.vue"
+    ],
+    "css": [
+      "assets/main.310d4fc5.css"
+    ]
+  },
+  "resources/views/pages/Auth/Signup.vue": {
+    "file": "assets/Signup.5ab141a6.js",
+    "src": "resources/views/pages/Auth/Signup.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/main.ts",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "__plugin-vue_export-helper.cdc0426e.js": {
+    "file": "assets/_plugin-vue_export-helper.cdc0426e.js"
+  },
+  "resources/views/pages/Home.vue": {
+    "file": "assets/Home.f84cef77.js",
+    "src": "resources/views/pages/Home.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_default.0597bf3a.js",
+      "resources/js/main.ts",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ]
+  },
+  "_default.0597bf3a.js": {
+    "file": "assets/default.0597bf3a.js",
+    "imports": [
+      "resources/js/main.ts",
+      "__plugin-vue_export-helper.cdc0426e.js"
+    ],
+    "assets": [
+      "assets/logo-ct-dark.7a12dae2.png",
+      "assets/team-2.d149865c.jpg",
+      "assets/logo-spotify.37f3657f.svg"
+    ]
+  },
+  "resources/views/pages/Profile.vue": {
+    "file": "assets/Profile.c1da6cd8.js",
+    "src": "resources/views/pages/Profile.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_default.0597bf3a.js",
+      "__plugin-vue_export-helper.cdc0426e.js",
+      "resources/js/main.ts"
+    ]
+  },
+  "resources/js/main.css": {
+    "file": "assets/main.310d4fc5.css",
+    "src": "resources/js/main.css"
+  }
+}
